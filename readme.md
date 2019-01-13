@@ -1,3 +1,11 @@
+# Project Title
+
+This project is a test to PrimePass, an API Restful with Unit Tests
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
 ## Setup
 
 Clone the repository
